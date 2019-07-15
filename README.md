@@ -1,7 +1,7 @@
 # Bit-Lock
 A simple bit lock tool.
 
-### Common:
+### How To Use:
 A Bit-Lock tool that can be used for regist and unregist of multiple objects.
 </br>位锁可以用于多个对象的注册反注册，或是左手右手的操作锁等等
 ```C#
