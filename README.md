@@ -1,5 +1,5 @@
 # Bit-Lock
-A simple bit lock tool.
+A simple bit lock tool.一个简单的位锁工具。
 
 ### How To Use:
 A Bit-Lock tool that can be used for regist and unregist of multiple objects.
